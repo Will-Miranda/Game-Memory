@@ -1,0 +1,48 @@
+#container {
+    width: 930px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+ul {
+    width: 930px;
+    margin: 0 auto;
+    padding: 0;
+    height: 22px;
+    background: rgba(207, 203, 203, 0.575);
+    list-style-type: none;
+    line-height: 60px;
+}
+
+ul a {
+    display: block;
+    float: left;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: large;
+    font-family: cursive;
+}
+
+img {
+    width: 40%;
+}
+
+
+
+.n1:hover {
+    padding: 5px;
+    color: rgb(9, 117, 180);
+}
+
+.logo {
+    width: 70%;
+    text-indent: 40px;
+}
+
+.cart {
+    display: block;
+    float: left;
+    background: red;
+    width: 40px;
+    height: 50px;
+}

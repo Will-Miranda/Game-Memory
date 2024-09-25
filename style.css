@@ -1,0 +1,86 @@
+#login {
+    width: 300px;
+    background: rgba(197, 194, 194, 0.726);
+    margin: 10em auto;
+    border-radius: 2em;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+body {
+    background: url(/img/png-transparent-poster-wall-rick-and-morty-television-cartoon-fictional-character.png)  no-repeat center;
+}
+
+header {
+    text-align: center;   
+    font-size: 1em;     
+}
+
+h1 {
+    color: rgb(4, 77, 10);
+    margin: 0;
+}
+
+img {
+    width: 40%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 5px auto;
+    padding: 0;
+    width: 930px;
+    height: 20px;
+    background: rgba(207, 203, 203, 0.575);
+    line-height: 60px;
+
+}
+
+ul a {
+    display: block;
+    float: left;
+    padding-left: 0 10px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: large;
+    font-family: cursive;
+}
+
+.pg-prin:hover {
+    color: rgb(9, 117, 180);
+    padding: 5px;
+}
+
+.logo {
+    width: 70%;
+    text-indent: 40px;
+}
+
+.name{
+    display: flex;
+    width: 80%;
+    height: 2em;
+    border-radius: 1.5em;
+    border-color: rgba(128, 128, 128, 0);
+    margin: 5% auto;
+    margin-bottom: 5px;
+    padding-left: 2em;
+}
+
+.game {
+    border-radius: 1.5em;
+    font-size: 1.6em;
+    cursor: pointer;
+    border-color: rgba(128, 128, 128, 0);
+    width: 40%;   
+    background: rgb(93, 168, 57);
+    height: 2.2em; 
+    margin-left: 30%;
+    margin-bottom: 7px;
+}
+
+
+.game:hover {
+    background: rgb(6, 71, 6); 
+    color: white;  
+}
